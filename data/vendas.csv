@@ -1,20 +1,20 @@
 PRODUTO, PREÇO, ENTREGUE
-Notebook, 3500, Sim
-Smartphone, 1500, Não
-Tablet, 2000, Sim
-Monitor, 800, Sim
-Teclado, 200, Não
-Mouse, 100, Sim
-Impressora, 1200, Não
-Cadeira, 500, Sim
-Mesa, 1000, Sim
-Fone de Ouvido, 300, Não
-Câmera, 2500, Sim
-TV, 4000, Sim
-Geladeira, 3500, Não
-Fogão, 2500, Sim
-Micro-ondas, 800, Sim
-Aspirador de Pó, 600, Não
-Ventilador, 150, Sim
-Ar Condicionado, 3000, Sim
-Lâmpada, 50, Não
+Notebook,3500,True
+Smartphone,1500,False
+Tablet, 2000,True
+Monitor, 800,True
+Teclado, 200,False
+Mouse, 100,True
+Impressora, 1200,False
+Cadeira, 500,True
+Mesa, 1000,True
+Fone de Ouvido, 300,False
+Câmera, 2500,True
+TV, 4000,True
+Geladeira, 3500,False
+Fogão, 2500,True
+Micro-ondas, 800,True
+Aspirador de Pó, 600,False
+Ventilador, 150,True
+Ar Condicionado, 3000,True
+Lâmpada, 50,False
